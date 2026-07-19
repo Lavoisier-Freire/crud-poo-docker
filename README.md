@@ -55,6 +55,17 @@ Desenvolver um sistema para gerenciamento de ativos de Tecnologia da Informaçã
 
 ---
 
+## Organização do Código
+
+O projeto foi organizado em módulos para facilitar sua manutenção e reutilização:
+
+- **main.py**: ponto de entrada da aplicação e interface com o usuário.
+- **inventario.py**: gerenciamento do inventário e das operações sobre os ativos.
+- **modelos.py**: definição das classes utilizadas pela aplicação.
+- **ativos.json**: armazenamento persistente das informações cadastradas.
+
+---
+
 ## Como Executar o Projeto
 
 ### Execução Local
