@@ -132,6 +132,7 @@ Durante o desenvolvimento deste projeto foram aplicados os seguintes conceitos:
 
 ## Autor
 
-**Lavoisier Freire**
+**Lavoisier do Prado Freire**
 
-Projeto desenvolvido durante a graduação em **Cibersegurança** na **Universidade Federal de Uberlândia (UFU)**.
+Bacharelado em Cibersegurança  
+Universidade Federal de Uberlândia (UFU)
